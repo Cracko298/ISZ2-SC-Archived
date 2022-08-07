@@ -11,25 +11,28 @@
 - Save-Data Keys *(1f0a58a9e0f84227.sav, 9a2ba2abf4b728dd.sav)*
 - Steam-Game Validation *(steam_autocloud.vdf)*
 
+# Error Codes:
+- ***0x0F*** - "steam_autocloud.vdf" is too large for validation.
+- ***0x1F*** - "steam_autocloud.vdf" is too small for validation.
 
-
-
-
-
-
-
-
-
-
-
-# FAQ's
-- ***Why is*** *steam_autocloud* ***required?***
+# FAQs
+- ***Why is*** "steam_autocloud" ***required?***
 
 *This is too stop all unauthorized copies of the game to use the converter.*
 
 - ***What is a Save-Data Key?***
 
 *The "Save-Data Keys" are required to verify file integrity, size, days, and more. Within the game itself.*
+
+- ***What is Error Code "0x0F"?***
+
+*Error Code "0x0F" is a error code given to a file over 55 bytes.*
+
+- ***What is Errror Code "0x1F"?***
+
+*Error Code "0x1F" is a error code given to a file under 50 bytes.*
+
+
 
 # Screenshots:
 ![image](https://user-images.githubusercontent.com/78656905/183311418-d5eb2981-9073-4094-b399-a75e97cf4a79.png)
