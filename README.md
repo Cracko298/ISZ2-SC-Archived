@@ -24,9 +24,11 @@
 
 # FAQ's
 - ***Why is*** *steam_autocloud* ***required?***
+
 *This is too stop all unauthorized copies of the game to use the converter.*
 
 - ***What is a Save-Data Key?***
+
 *The "Save-Data Keys" are required to verify file integrity, size, days, and more. Within the game itself.*
 
 # Screenshots:
