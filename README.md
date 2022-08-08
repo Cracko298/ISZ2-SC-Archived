@@ -24,6 +24,10 @@
 
 *The "Save-Data Keys" are required to verify file integrity, size, days, and more. Within the game itself.*
 
+- ***What is a "Error Code"?***
+
+*An Error code can be for any number of reasons. However they're mostly used for detecting a fake "steam_autocloud.vdf" file.*
+
 - ***What is Error Code "0x0F"?***
 
 *Error Code "0x0F" is a error code given to a file over 55 bytes.*
