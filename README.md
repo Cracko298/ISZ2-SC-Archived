@@ -36,6 +36,9 @@
 
 *Error Code "0x1F" is a error code given to a file under 50 bytes.*
 
+- ***Why is the file so big?***
+
+*8kb is not really that big. However the application has 6 checks to ensure the Keys provided are accurate. As well as some anti-piracy measures.*
 
 
 # Screenshots:
