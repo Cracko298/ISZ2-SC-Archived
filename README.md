@@ -9,7 +9,7 @@
 # Requirements:
 - Windows XP/Vista/7/8.X/10 ***x32/x64 Build***
 - Save-Data Keys *(1f0a58a9e0f84227.sav, 9a2ba2abf4b728dd.sav)*
-- Steam-Game Validation *(steam_autocloud.vdf)*
+- Steam-Game Validation *(steam_autocloud.vdf)* and should be ***51 - 54 bytes big***.
 
 # Error Codes:
 - ***0x0F*** - "steam_autocloud.vdf" is too large for validation.
