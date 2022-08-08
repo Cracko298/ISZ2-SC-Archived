@@ -38,7 +38,7 @@
 
 - ***Why is the file so big?***
 
-*8kb is not really that big. However the application has 6 checks to ensure the Keys provided are accurate. As well as some anti-piracy measures.*
+*The application has 6 checks to ensure the Keys provided are accurate. It has basic Save-Data Corruption protection. As well as some anti-piracy measures.*
 
 
 # Screenshots:
