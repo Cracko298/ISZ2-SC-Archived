@@ -44,7 +44,7 @@
 
 - ***Why is the file so big?***
 
-*The application has 6 checks to ensure the Keys provided are accurate. It has basic Save-Data Corruption protection. As well as some anti-piracy measures.*
+*The application has 6 checks to ensure the Keys provided are accurate. The application also has some anti-piracy measures.*
 
 
 # Screenshots:
