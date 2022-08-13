@@ -3,7 +3,8 @@
 - Note: I really do ***not*** plan to make any updates to this.
 
 # Features:
-- Converts Save-Data from ISZ-PC to ISZ-SWITCH.
+- *ISZ-PC-TO-SWITCH.exe* Converts Save-Data from ISZ-PC to ISZ-SWITCH.
+- *ISZ-SWITCH-TO-PC.exe* Converts Save-Data from ISZ-SWITCH to ISZ-PC.
 - Basic Save-Data Corruption Protection.
 
 # Requirements:
