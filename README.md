@@ -37,15 +37,15 @@
 
 - ***What is Error Code "0x0F"?***
 
-*Error Code "0x0F" is a error code given to a file over 55 bytes.*
+*Error Code "0x0F" is a error code given to a file over 55 bytes. - ISZ-PC-TO-SWITCH*
 
 - ***What is Errror Code "0x1F"?***
 
-*Error Code "0x1F" is a error code given to a file under 50 bytes.*
+*Error Code "0x1F" is a error code given to a file under 50 bytes. - ISZ-PC-TO-SWITCH*
 
-- ***Why is the file so big?***
+- ***Why are the files so big?***
 
-*The application has 6 checks to ensure the Keys provided are accurate. The application also has some anti-piracy measures.*
+*The application(s) have 6 checks to ensure the Keys provided are accurate. The application also has some anti-piracy measures.*
 
 
 # Screenshots:
