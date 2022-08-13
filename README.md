@@ -46,7 +46,7 @@
 
 - ***Why are the files so big?***
 
-*The application(s) have 6 checks to ensure the Keys provided are accurate. The application also has some anti-piracy measures.*
+*The application(s) have 6 checks to ensure the Keys provided are accurate. The application(s) also have some anti-piracy measures.*
 
 
 # Screenshots:
