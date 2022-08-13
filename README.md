@@ -14,6 +14,12 @@
 # Error Codes:
 - ***0x0F*** - "steam_autocloud.vdf" is too large for validation.
 - ***0x1F*** - "steam_autocloud.vdf" is too small for validation.
+- ***0x2F*** - "1f0a58a9e0f84227" is too big for validation.
+- ***0x3F*** - "1f0a58a9e0f84227" is too small for validation.
+- ***0x4F*** - "9a2ba2abf4b728dd" is too big for validation.
+- ***0x5F*** - "9a2ba2abf4b728dd" is too small for validation.
+
+
 
 # FAQs
 - ***Why is*** "steam_autocloud" ***required?***
