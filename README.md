@@ -34,6 +34,7 @@
 - ***What is a "Error Code"?***
 
 *An Error code can be for any number of reasons. However they're mostly used for detecting a fake "steam_autocloud.vdf" file.*
+*Or detecting fake "1f0a58a9e0f84227/9a2ba2abf4b728dd" Keys.
 
 - ***What is Error Code "0x0F"?***
 
