@@ -51,9 +51,9 @@
 
 *The application(s) have 6 checks to ensure the Keys provided are accurate. The application(s) also have some anti-piracy measures.*
 
-- ***What if my files are Valid, But give me a Error Code?***
+- ***What if my files are Valid, But it gives me a Error Code?***
 
-*In this case, create an [Issue Request](https://github.com/Cracko298/ISZ2-SAVE-CONVERTER/issues), And I will attempt to help you with a manual converting Process.*
+*In this case, create an [Issue Request](https://github.com/Cracko298/ISZ2-SAVE-CONVERTER/issues), Include the Error Code* ***0x*** *And the Byte amount.* *(You can choose to upload the _log file.*
 
 
 # Screenshots:
