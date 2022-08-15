@@ -1,6 +1,7 @@
 # Beta Version Release
 - Released The Beta Version.
-- Note: I really do ***not*** plan to make any updates to this.
+- Note #1: I really do ***not*** plan to make any updates to this.
+- Note #2: The Compiled Applications seem to Trigger Windows Defender. This is a [False-Positive](https://www.safetydetectives.com/blog/what-are-antivirus-false-positives-how-to-fix-them/).
 
 # Features:
 - *ISZ-PC-TO-SWITCH.exe* Converts Save-Data from ISZ-PC to ISZ-SWITCH.
