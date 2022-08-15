@@ -1,7 +1,6 @@
-# ISZ-PC-TO-SWITCH
+# Beta Version Release
 - Released The Beta Version.
 - Note: I really do ***not*** plan to make any updates to this.
-- May release *ISZ-SWITCH-TO-PC.bat/.exe* if I feel it's necessary.
 
 # Features:
 - *ISZ-PC-TO-SWITCH.exe* Converts Save-Data from ISZ-PC to ISZ-SWITCH.
