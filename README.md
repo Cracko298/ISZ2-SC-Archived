@@ -28,7 +28,7 @@
 # FAQs
 - ***Why is*** "steam_autocloud" ***required?***
 
-*This is too stop all unauthorized copies of the game to use the converter.*
+*This is too stop all unauthorized copies of the game from using the converter.*
 
 - ***What is a Save-Data Key?***
 
@@ -36,8 +36,8 @@
 
 - ***What is a "Error Code"?***
 
-*An Error code can be for any number of reasons. However they're mostly used for detecting a fake "steam_autocloud.vdf" file.*
-*Or detecting fake "1f0a58a9e0f84227/9a2ba2abf4b728dd" Keys.
+*An Error-Code can be for any number of reasons. However they're mostly used for detecting a fake "steam_autocloud.vdf" file.*
+*Or detecting fake/invalid "1f0a58a9e0f84227/9a2ba2abf4b728dd" Keys.*
 
 - ***What is Error Code "0x0F"?***
 
@@ -50,6 +50,10 @@
 - ***Why are the files so big?***
 
 *The application(s) have 6 checks to ensure the Keys provided are accurate. The application(s) also have some anti-piracy measures.*
+
+- ***What if my files are Valid, But give me a Error Code?***
+
+*In this case, create an [Issue Request](https://github.com/Cracko298/ISZ2-SAVE-CONVERTER/issues), And I will attempt to help you with a manual converting Process.*
 
 
 # Screenshots:
