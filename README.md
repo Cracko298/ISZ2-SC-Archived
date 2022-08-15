@@ -14,12 +14,21 @@
 - Steam-Game Validation *(steam_autocloud.vdf)* ***51 - 54 bytes***.
 
 # Error Codes:
-- ***0x0F*** - "steam_autocloud.vdf" is too large for validation.
-- ***0x1F*** - "steam_autocloud.vdf" is too small for validation.
-- ***0x2F*** - "1f0a58a9e0f84227" is too big for validation.
-- ***0x3F*** - "1f0a58a9e0f84227" is too small for validation.
-- ***0x4F*** - "9a2ba2abf4b728dd" is too big for validation.
-- ***0x5F*** - "9a2ba2abf4b728dd" is too small for validation.
+- ***0x0F*** - "steam_autocloud.vdf" is too large for validation. **ISZ-PC-TO-SWITCH**
+- ***0x1F*** - "steam_autocloud.vdf" is too small for validation. **ISZ-PC-TO-SWITCH**
+
+**====================================================================================**
+
+- ***0x2F*** - "1f0a58a9e0f84227" is too big for validation. **ISZ-SWITCH-TO-PC**
+- ***0x3F*** - "1f0a58a9e0f84227" is too small for validation. **ISZ-SWITCH-TO-PC**
+- ***0x4F*** - "9a2ba2abf4b728dd" is too big for validation. **ISZ-SWITCH-TO-PC**
+- ***0x5F*** - "9a2ba2abf4b728dd" is too small for validation. **ISZ-SWITCH-TO-PC**
+
+**====================================================================================**
+
+- ***0xEF*** - "9a2ba2abf4b728dd" Was not found in Working Directory. **ISZ-SWITCH-TO-PC**
+- ***0xFF*** - "1f0a58a9e0f84227" Was not found in Working Directory. **ISZ-SWITCH-TO-PC**
+
 
 
 
