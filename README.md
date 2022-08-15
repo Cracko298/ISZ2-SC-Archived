@@ -53,7 +53,7 @@
 
 - ***What if my files are Valid, But it gives me a Error Code?***
 
-*In this case, create an [Issue Request](https://github.com/Cracko298/ISZ2-SAVE-CONVERTER/issues), Include the Error Code* ***0x*** *And the Byte amount.* *(You can choose to upload the _log file.*
+*In this case, create an [Issue Request](https://github.com/Cracko298/ISZ2-SAVE-CONVERTER/issues), Include the Error Code* ***0x*** *And the Byte amount.* *(You can choose to upload the _log file instead).*
 
 
 # Screenshots:
