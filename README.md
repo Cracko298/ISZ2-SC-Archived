@@ -1,3 +1,7 @@
+# NOTICE!
+### All development has been moved to [Here](https://github.com/Cracko298/ISZ2021-Save-Converter).
+
+
 # Beta Version Release
 - Released The Beta Version.
 - Note #1: I really do ***not*** plan to make any updates to this.
